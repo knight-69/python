@@ -3,5 +3,5 @@
 import pyttsx3
 engine = pyttsx3.init()
 # write anything in the bracket and it will speak
-engine.say("tattaai da cr")
+engine.say("type anthing in it")
 engine.runAndWait()
